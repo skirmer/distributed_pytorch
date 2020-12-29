@@ -1,14 +1,3 @@
 ## Walkthrough of Case Study
 
-* Stanford Dogs Dataset
-
-http://vision.stanford.edu/aditya86/ImageNetDogs/main.html
-
-
-* Classification of single image
-
-jupyter notebook
-
-* Classification of many images in parallel
-
-jupyter notebook
+See notebook for the full walkthrough. If you care to run it yourself, you can do that on Saturn Cloud!
